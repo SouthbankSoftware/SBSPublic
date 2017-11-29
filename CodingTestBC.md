@@ -9,7 +9,7 @@ mysql -u CodingTest  -h sbstest.chd1y6fipbcf.us-east-1.rds.amazonaws.com -P 3306
 ```
 This database contains the example `Sakila` database which you can use as sample data (read only) and also a `SBSTest` database that can be used to create/modify data.
 
-Your program will attach to a nominated MySQL database and execute a query specified on command line, input file standard input (Your choice as to which of these you implement, though some might be considered as better options).  The program will perform one the following activities as requested in invocation arguments:
+Your program will attach to a nominated MySQL database and execute a query specified on command line, input file or standard input (Your choice as to which of these you implement, though some might be considered as better options).  The program will perform one the following activities as requested in invocation arguments:
 
 * Create Proof of State: For the data returned by the query, calculate a `sha256` hash and store that hash together with the query on the local filesystem
 * Validate State: For a given query, check the stored hash and check to see if that hash is still valid (eg, that the data has not changed)
