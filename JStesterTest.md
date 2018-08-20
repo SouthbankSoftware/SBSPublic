@@ -19,7 +19,7 @@ There are three test cases to write:
 Using framework you like, write a test case that checks the following:
 
 1. The website http://wwww.dbkoda.com is reachable.
-2. The Donwload link at the top of the page navigates to the downloads section,
+2. The Download link at the top of the page navigates to the downloads section,
 3. Clicking on the Windows download button causes 'dbkoda-latest.exe' to be downloaded.
 4. The "Subscribe" button is visible
 5. Clicking subscribe brings up the username/email dialogue
