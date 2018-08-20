@@ -1,6 +1,6 @@
 # Southbank Software tester JS test
 
-Write a test suite that validates the data contained in the file ().
+Write a test suite that validates the data contained in the file (https://raw.githubusercontent.com/SouthbankSoftware/SBSPublic/master/JStesterTestData.json).
 
 The test suite can be written in a Javascript framework of your choice or as native Javascript code. It should be runnable in nodeJS:  we'll try and run it against 8.9.1.  You should include a package.json file that contains any dependencies.
 
