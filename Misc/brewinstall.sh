@@ -10,6 +10,8 @@ brew cask install adobe-creative-cloud sketch visual-studio-code balsamiq-mockup
 brew cask install postman tigervnc-viewer zoomus
 brew install yarn golang godep
 brew cask install minikube numi
-brew install kubecfg kubernetes-cli 
+brew install kubecfg kubernetes-cli kubernetes-helm watch 
+brew tap mongodb/brew
+brew install mongodb-community
 
 
