@@ -141,6 +141,5 @@ brew install xdot
 brew install xz
 brew install yarn
 brew install yq
-brew install cockroachdb/tap/cockroach
-brew install --cask zoom wireshark visual-studio-code virtualbox dbkoda  skype slack whatsapp telegram 
-brew install --cask postman dropbox docker google-chrome spectacle minikube  gitkraken grammarly
+brew install cask zoom wireshark visual-studio-code virtualbox dbkoda screenflow skype slack whatsapp telegram 
+brew install cask evernote parallels postmane dropbox docker google-chrome spectacle minikube zeplin gitkraken grammarly
