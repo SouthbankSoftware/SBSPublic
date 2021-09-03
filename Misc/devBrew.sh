@@ -3,7 +3,7 @@ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/
 brew install homebrew/cask
 brew install adns
 brew install adwaita-icon-theme
-brew install apache-drill
+
 brew install asciinema
 brew install atk
 brew install autoconf
@@ -141,5 +141,5 @@ brew install xdot
 brew install xz
 brew install yarn
 brew install yq
-brew install cask zoom wireshark visual-studio-code virtualbox dbkoda screenflow skype slack whatsapp telegram 
-brew install cask evernote parallels postmane dropbox docker google-chrome spectacle minikube zeplin gitkraken grammarly
+brew install --cask zoom wireshark visual-studio-code virtualbox dbkoda screenflow skype slack whatsapp telegram 
+brew install --cask   postman dropbox docker google-chrome spectacle minikube zeplin gitkraken grammarly
